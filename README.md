@@ -40,6 +40,7 @@
 ### 开发工作流
 - [开发工作流](docs/workflows/开发工作流.md) — Cross-Model、RPI、Ralph Wiggum Loop 等
 - [热门功能](docs/workflows/热门功能.md) — /btw、Code Review、Voice Mode、Agent Teams 等
+- [🔥 开发工作流核心概念与后端实战](docs/workflows/开发工作流核心概念与后端实战.md) — 三层架构详解 + Spring Boot 订单查询 API 完整示例
 
 ### 深度报告
 - [报告索引](docs/reports/报告索引.md) — 9 篇深度分析报告索引
